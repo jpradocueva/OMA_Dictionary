@@ -1,2 +1,2 @@
-# OMA_Dictionary
-dictionary for oma specifications
+<!DOCTYPE html>
+<p># OMA Document Templates This repository is intended to be used as a source of document templates to be used for new OMA Enabler Releases. It contains the following templates: * **REQ** * OMA Requirements Document (RD) * **ARC** * OMA Architecture Document (AD) * **TS** * OMA Technical Specifications (TS) * [OMA Template v2.0](http://openmobilealliance.github.io/OMA_Document_Templates/base_new_ReSpec_version.html) * [OMA Template v1.0](http://openmobilealliance.github.io/OMA_Document_Templates/base.html) * **SUP** * Supporting Files (SUP) * **IOP** * Enabler Test Specifications * Test Files Package</p>
